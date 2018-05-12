@@ -1,0 +1,56 @@
+_repo: Stuurman-FlinkDe-schipbreuk-van_44758
+_version: 0.1.0
+alternative_title: Masterman Ready. Dutch
+contributor:
+  illustrator:
+    agent_name: Braakensiek, Joh. (Johan Coenraad)
+    alias: Braakensiek, Johan Coenraad
+    birthdate: 1858
+    deathdate: 1940
+    gutenberg_agent_id: '6460'
+    url: http://www.gutenberg.org/2009/agents/6460
+    wikipedia: http://en.wikipedia.org/wiki/Johan_Braakensiek
+  translator:
+    agent_name: Goeverneur, J. J. A. (Johan Jacob Antonie)
+    aliases:
+    - Goeverneur, J.J.A.
+    - Goeverneur, Johan Jacob Antonie
+    birthdate: 1809
+    deathdate: 1889
+    gutenberg_agent_id: '32864'
+    url: http://www.gutenberg.org/2009/agents/32864
+covers:
+- cover_type: archival
+  image_path: 44758-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Marryat, Frederick
+    aliases:
+    - Marryatt, Captain
+    - Marryat, F. W. (Frederick W.)
+    - Marryat, Captain
+    - Marryat, Kapitein
+    birthdate: 1792
+    deathdate: 1848
+    gutenberg_agent_id: '627'
+    url: http://www.gutenberg.org/2009/agents/627
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Marryat
+description: ''
+gutenberg_issued: '2014-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44758'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Islands -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Sea stories'
+- !lcsh 'Survival -- Fiction'
+- !lcsh 'Shipwrecks -- Fiction'
+- !lcc 'PR'
+- !lcc 'PZ'
+title: Stuurman Flink; of, De schipbreuk van "De Vrede"
+url: http://www.gutenberg.org/ebooks/44758
